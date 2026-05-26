@@ -60,6 +60,12 @@ This application provides a complete library management solution with features f
 ### Borrow / Return
 ![Borrow Return](screenshots/borrow_return.png)
 
+### ETL Dashboard
+![ETL Dashboard](screenshots/ETL_dashboard.png)
+
+### ETL Dashboard 2
+![ETL Dashboard 2](screenshots/ETL_dashboard_2.png)
+
 ## Project Structure
 
 ```
