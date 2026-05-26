@@ -43,6 +43,23 @@ This application provides a complete library management solution with features f
 - **Analytics API** – RESTful endpoints serving all analytics data
 - **On-demand ETL** – Trigger ETL pipeline from the UI with a single click
 
+## Screenshots
+
+### Library Overview
+![Library Overview](screenshots/library_overview.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Book Management
+![Book Management](screenshots/book_management.png)
+
+### Borrower Management
+![Borrower Management](screenshots/borrower_mangement.png)
+
+### Borrow / Return
+![Borrow Return](screenshots/borrow_return.png)
+
 ## Project Structure
 
 ```
